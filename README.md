@@ -28,3 +28,7 @@ var obj= parseJSON( json, errHandler ) || {};
 console.log( obj );
 //	{}
 ```
+
+###license
+
+MIT
